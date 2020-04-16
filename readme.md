@@ -1,0 +1,1 @@
+Carrera con pygame, creando los objetos
